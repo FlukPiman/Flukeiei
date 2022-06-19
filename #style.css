@@ -1,0 +1,24 @@
+p {
+    color: #000;
+    text-shadow: 2px 2px rgb(211, 163, 132);
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    font-size: 20px;
+}
+
+img {
+    border: 3px solid #DEB887;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(3, 65, 61);
+    height:auto;
+}
+.img-circle{
+    border-radius: 300px;
+}
